@@ -1,0 +1,6 @@
+# .gitignore
+.env
+lstm_models/
+__pycache__/
+*.log
+*.h5
